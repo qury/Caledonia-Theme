@@ -1,0 +1,9 @@
+[KSplash Theme: Caledonia-KSplash]
+Name = Caledonia-KSplash 
+Description = Caledonia-KSplash in QML
+Version = 2.0
+Author = Malcer <malcer at gmx.com>
+Homepage = http://caledonia.sourceforge.net
+
+# Theme behaviour settings.
+Engine = KSplashQML

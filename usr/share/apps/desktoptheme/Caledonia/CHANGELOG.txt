@@ -1,0 +1,288 @@
+Caledonia Plasma Theme Changelog
+--------------------------------
+
+*_v2.0 Mar 28 2015
+
+1- KDE Plasma 4.14.6 / KDE Plasma 5.2 compatible
+2- Updated documentation
+3- Added an experimental Yarock icon
+4- Revised KDE Connect icon
+5- Revised smartphone icon
+6- Revised phone icon
+7- Revised Amarok icon
+8- Revised Cantata icon
+9- Revised experimental Tomahawk icon
+10- Revised Bangarang icon
+11- Revised KGet icon
+12- Added experimental Fcitx icon
+13- New Quassel icon
+14- New Klipper/clipboard icon
+15- Fixed a bug in panel shadows
+16- Revised notes icon
+17- New printer icon
+18- Revised Nepomuk/Baloo icon
+19- New KWallet/wallet icon
+20- Revised Apport/bug report icon
+21- Revised Konversation icons
+22- Revised touchpad icon
+23- Revised battery icon
+24- Revised computer icon
+25- Revised video icon
+26- New Kaffeine icon
+27- Revised dialog icon
+28- Revised KMix/audio icon
+29- Revised scrollbars
+30- Added new mail icons
+31- New Kgpg icon
+32- Revised bookmarks icon
+33- Revised applications icon
+34- New activities icon
+35- Revised start here icon
+36- New input keyboard icons
+37- New KTimer icon
+38- New document icon
+39- Revision of display icons
+40- New battery icon
+41- Revised view icons
+42- Panel revision
+43- Revised user icons
+44- Added an experimental Simple Audio Player icon
+45- Added an experimental Transmission icon
+46- New configuration icon
+47- Redesigned nocover art
+48- Revised tabbar
+
+*_v1.9 Aug 18 2014
+
+-KDE 4.13.x and 4.14 compatible
+-Starting Plasma 5 compatibility
+-Updated documentation
+-General archive color revision
+-Added software updates icons
+-New network icon collection
+-Revised Record It Now icon
+-Revised action icons / tool bar icons
+-New multimedia action icons
+-Revised configuration icons
+-New search (Nepomuk/Baloo) icon
+-Added view icon
+-Revised slider
+-Revised preferences icons
+-Revised Kgpg icon
+-Added document icon
+-Added touchpad icon
+-Added apport icon
+-Revised printer icon
+-Revised Icon Tasks separator
+-Added "Badge" support to Icon Tasks
+-Added zoom icon
+-New lockscreen background
+-Revised KTeatime icon
+-New battery icon (with 10 battery status)
+-Added an experimental Tomahawk icon
+-Revised phone icon
+-Added a start appmenu icon
+-Added an applications section icon
+-Added bookmarks icon
+-Added computer icon
+-New coloration in "notes" widget: green, black, orange
+-Revised NoCover widget
+-Revised button colors
+-Revised containment-controls colors
+-Revised Window icon
+-New SLC icons
+-New location icons
+-New branding for kickoff
+-Redesigned KTorrent icon
+-Added drive icon
+-Added input icons
+-Added video display icon
+-Added user icons
+-Added tab bar widget
+-Added menu configuration icon
+-Added view history icon
+-Updated toolbar-icons
+-New KDE Telepathy icons (like Plasma 5 user status)
+-Added system icons
+
+*_v1.6.2 Mar 07 2014
+
+-Updated documentation
+-Added Euskera, Chinese and Esperanto languages to metadata description
+-Little revision in Amarok icon file
+-Added an icon for Cantata
+-Icon compatibility with new Plasma-nm (version 0.9.3.3)
+-Revised slider widget
+-Revised Calendar decorations
+-Revised icon theme colors
+-New chronometer design
+
+*_v1.6.1 Feb 23 2014
+
+-Updated to the new standard icon in KDE Connect
+-Added Brazilian Portugese to metadata description
+-Fixed some bugs with some icons in Plasma-nm (versions 0.4.2.x)
+
+*_v1.6 Feb 17 2014
+
+-KDE 4.12.2 compatible
+-Added more languages in metadata description (Finnish, Russian-RU, generic Russian)
+-Added a donation direct access
+-Icon support for KDE Connect (thanks to Albert Vaka collaboration with KDE Connect code) - Superior to version 0.4.2
+-Great icon support (140 pieces) for Plasma NetworkManagement QML (ethernet, wifi, VPN, mobile networks, airplane mode)
+-Revised preferences icons
+-Revised KWallet icons
+-Revised list item component
+-Revised Choqok icon
+-Revised Kickoff decoration
+-Revised location icons
+-Revised SLC icons
+-Revised list item decorations
+-Revised Record It Now icon
+
+*_v1.5 Nov 25 2013
+
+-KDE 4.11.x and KDE 4.12.x (develop status) compatible
+-General color revision
+-Updated metadatas and documentation (added caledonia.sourceforge.net)
+-Revised/renewed toolbar-icons
+-Changed NowListen plasmoid color bar
+-Fixed RSSNow arrows
+-New progressbars
+-Full new configuration icons
+-IconTasks progressbar addapted to new style
+-New KTeaTime Icon
+-More minimalistic decoration for logout menu
+-New KTorrent icon
+-Renewed audio/sound icon
+-Improved wifi notification icon
+-Updated Kaffeine icon
+-New icons for presence applet (Telepathy)
+-New device plug notification icon
+-New icon for Amarok
+-Added icon support for DiscBurner plasmoid
+-Added bubblemon plasmoid support
+-Added Fifteen Puzzle plasmoid support
+-Added an icon for previewer plasmoid
+-Added an icon for location tool
+-New icon for Choqok
+-New "like" SLC icon
+-Calendar icon revised
+-New icon for activities
+-Added original design for Notes plasmoid
+-Activated background to the lockscreen
+-Initial support for Plasma NetworkManagement QML
+-Revised desktop pager icon
+
+*_v1.3 Jan 04 2013
+
+-KDE 4.10.x compatible
+-Updated documentation (and added SourceForge site)
+-Added desktop notification icon
+-New widgets arrows
+-Fixed a bug in "viewitem" (thanks to Hyslion for the fix)
+-Added toolbar-icons
+-Added mini-calendar icon
+-Revised Quassel icon
+-New printer icon
+-New accessibility (text to speech) icon
+-New ethernet connection icon
+-Added presence applet for Telepathy KDE
+-Added new mail icons
+-New configuration icons
+-Added weather icons (ready for compabitily)
+-New Konversation icon
+-Revised button colors
+-Removed display widget
+-Added an experimental wallpaper/pattern
+
+*_v1.2 Sep 28 2012
+
+-KDE 4.9.x Compatible
+-Added an icon for Bangarang
+-Better audio icons
+-Added SLC icons
+-Better opaque support (without KWin effects)
+-New icon for Apper/KPackageKit
+-Better network icons (and new wired connection icons)
+-Revised preferences icons (and new icon for KRandTray)
+-New Korgac icon
+-Revised KMess icon
+-Added KNotes icon
+-Removed Skype and VLC icons (not systray support in both)
+-Improved calendar
+-Added plot background changes
+-Panel improvements
+-Added phone icon (for test)
+-Added KAlarm icon
+-Revised branding
+-New KTeatTime icon
+-Removed battery-oxygen widget
+-Improved Kopete icon
+-Added Konqueror icon
+-Added dialog icons
+-Added KTimer icon
+-Added Record It Now icon
+-Revised colors
+-Updated documentation
+-New containment controls
+-Improved/revised notifications
+-Added drop-indicators for Icon Tasks
+-Revised extender-background
+-Added a CSS stylesheet for news plasmoid
+-Revised view item
+
+*_v1.0 Apr 04 2012
+
+-Better documentation
+-KDE 4.8 compatible
+-Revised Krandtray icon in system tray
+-Revised logout dialog
+-Revised the pager decoration
+-Revised the action icons
+-Improvements in analog clock decoration
+-New icon for Korgac
+-New icon for KRandtray
+-New icon for Kgpg
+-Revised Device Notifier icon
+-Revised Akregator icon
+-Revised the panel (5% more opaque/dark)
+-Revised opaque files
+-Revised monitor icon
+-Revised branding
+-New icon for KWalletKTeatTime icon
+-Revised notification icons
+-Added an offline icon for Choqok
+-Revised battery icon
+-New icon for Quassel
+-New icons for Konversation
+-Revised Kopete icon
+-Revised the element "analog_meter"
+-Revised Amarok icon
+-Changes in Lancelot archives, less disk space
+-Revised KGet icon
+-Revised the slider
+-New decoration for taskbar
+-New containment-controls
+-New icon for KMess
+-Added an icon for Synaptiks
+-Added an icon for Kaffeine
+-Improvements in network icons
+-Added an icon for activities
+-Added an action button widget
+-New and cool icon of case for NowPlaying plasmoid
+-New decoration in monitor widget
+-Improvements in kickoff menu decoration
+-Improvement in mouseover scrollbar widget
+-Added Icon Tasks plasmoid support
+-New KTeaTime icon
+-Some new action icons
+-Better color in scrollbars for usability
+-Added an icon for Akonadi
+-Improved notification icon
+
+(...LEGACY VERSIONS...)
+
+Caledonia Plasma Theme had first release in Jun 05 2011 (based in many parts of "Ember" theme by Garth Johnson), and changes the license (move to Creative Commons) 
+in Oct 14 2011 (version 0.9.8) because of many new and remade components.
+Only versions prior to 0.9.8 keeps the GPL license. See the metadata or the changelog to know the Caledonia version.

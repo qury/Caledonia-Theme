@@ -1,0 +1,21 @@
+GET MORE CALEDONIA STUFF
+------------------------
+
+[EN]
+
+If you like Caledonia Plasma-KDE Theme, you can download a complete experience for your KDE:
+
+caledonia.sourceforge.net
+
+You can use the Caledonia Downloader, a bash script that uses wget and KDE dialogs to offer a complete 
+download of Caledonia art suite. Click it and run (or give click'n' run permissions).
+
+[ES]
+
+Si te gusta el tema Plasma-KDE de Caledonia, puedes descargar una experiencia completa para tu KDE:
+
+caledonia.sourceforge.net
+
+Puedes usar Caledonia Downloader, un script bash que usa wget y diálogos de KDE para ofrecer una descarga 
+completa de los componentes oficiales de la suite artística Caledonia. 
+Haz clic y se ejecuta (o dale los permisos para que se ejecute con el click).

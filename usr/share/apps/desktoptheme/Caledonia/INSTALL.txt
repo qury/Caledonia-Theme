@@ -1,0 +1,40 @@
+HOW TO INSTALL
+==============
+
+[EN]
+
+KDE/PLASMA 4 INSTALLATION
+-------------------------
+
+System-wide install:
+Extract this folder to /usr/share/apps/desktoptheme directory
+
+User-only install:
+Extract this folder to ~/.kde4/share/apps/desktoptheme directory
+
+In some distros the "~/.kde4/" directory may be called "~/.kde/"
+
+Select and apply the theme in KDE System Settings > Workspace Appearance > Desktop Theme > Caledonia
+
+KDE/PLASMA 5 INSTALLATION
+-------------------------
+
+*************************
+
+[ES]
+
+INSTALACIÓN EN KDE/PLASMA 4
+---------------------------
+
+Instalación en todo el sistema:
+Extraer carpeta en el directorio /usr/share/apps/desktoptheme
+
+Instalación para el usuario solo:
+Extraer esta carpeta en el directorio ~/.kde4/share/apps/desktoptheme
+
+En algunas distros el directorio "~/.kde4/" puede ser denominado "~/.kde/"
+
+Selecciona y aplica el tema en System Settings de KDE ("Preferencias del sistema") > Apariencia del espacio de trabajo > Tema de escritorio > Caledonia
+
+INSTALACIÓN EN KDE/PLASMA 5
+---------------------------
